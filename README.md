@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Dmitrii Gololobov
+- 👀 I’m interested in frontend. Prefferer Vue.
